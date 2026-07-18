@@ -1,0 +1,3 @@
+# Inventory
+
+No items yet.
